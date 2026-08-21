@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 StructAware-RobotSim
+#  StructAware-RobotSim
 
 ### Structural state-aware simulation of construction robots via real-time finite element analysis
 
