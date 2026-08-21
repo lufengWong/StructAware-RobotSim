@@ -4,8 +4,7 @@
 
 ### Structural state-aware simulation of construction robots via real-time finite element analysis
 
-**OpenSees × MuJoCo** — two engines coupled asynchronously, so the structure a robot works on
-is no longer rigid scenery.
+**OpenSees × MuJoCo** — two engines coupled, so the structure a robot works on is no longer rigid scenery.
 
 ![Status](https://img.shields.io/badge/paper-under%20review-D9A441)
 ![Code](https://img.shields.io/badge/code-staged%20release-8A8985)
