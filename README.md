@@ -24,7 +24,7 @@ deformation is solved inside the control loop, and the resulting member utilizat
 back into what the robot is allowed to do. When the structure can no longer carry the load, the
 simulator switches from a static solve to a transient collapse analysis and keeps rendering.
 
-> 📄 The accompanying paper is **under review**.
+> 📄 The accompanying paper is **under review**. 
 > 🧠 **The source code is temporarily withheld during peer review** and will be opened in stages
 > at this repository — see the [release roadmap](#-release-roadmap) below.
 
