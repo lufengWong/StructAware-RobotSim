@@ -102,16 +102,6 @@ The full stack will be opened here in stages, keeping this repository as the sin
 
 ---
 
-## 🇨🇳 简介
-
-机器人仿真器通常把结构当作刚性布景。本项目将 OpenSees 非线性有限元与 MuJoCo 机器人仿真器
-异步耦合：机器人的自重实时使结构变形，杆件利用率实时反馈进控制回路；结构失去承载力时，
-仿真自动切换到瞬态倒塌分析并继续渲染。论文正在 *Automation in Construction* 审稿中，
-**代码将按上方路线表分阶段开源**。中文交互页见
-[media/StructAware-RobotSim-zh.html](media/StructAware-RobotSim-zh.html)。
-
----
-
 ## 📜 License & citation
 
 Released materials are under the [MIT License](LICENSE). A citation entry will be added upon
