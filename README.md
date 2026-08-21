@@ -69,8 +69,9 @@ robot bay yields the bending-governed chords, the static solver loses equilibriu
 simulator hands over to the transient engine: the robot panel free-falls 3 m in 0.81 s while the
 rest of the frame re-equilibrates.
 
-🌐 **Interactive pages** (self-contained HTML, download and open locally):
-[English](media/StructAware-RobotSim.html) · [中文](media/StructAware-RobotSim-zh.html)
+🌐 **Interactive pages**:
+[English](https://lufengwong.github.io/StructAware-RobotSim/media/StructAware-RobotSim.html) ·
+[中文](https://lufengwong.github.io/StructAware-RobotSim/media/StructAware-RobotSim-zh.html)
 
 ---
 
